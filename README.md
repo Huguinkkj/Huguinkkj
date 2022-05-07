@@ -10,20 +10,8 @@
     <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api?username=Huguinkkj&show_icons=true&theme=radical&include_all_commits=true&count_private=private"/>
     <body>
     <h1>Im learning now:</h1>
-    <img height="100cm" align="left" id="Javascripticon" src="https://i.imgur.com/pSDXRKs.png" onclick=(https://developer.mozilla.org/en-US/docs/Web/JavaScript)/>
-    <img height="100cm" align="up" src="https://cdn.discordapp.com/emojis/807008472528584714.gif?size=32"/>
+    <img height="100cm" align="left" id="Javascripticon" src="https://user-images.githubusercontent.com/98499607/167263270-b51e9dcd-879a-4ae8-858a-48c0b8885bcf.gif" onclick=(https://developer.mozilla.org/en-US/docs/Web/JavaScript)/>
+    <img height="100cm" align="center" src="https://cdn.discordapp.com/emojis/807008472528584714.gif?size=32"/>
     </body>
-      <div>
-      <h1>
-      About me:
-      </h1>
-      <h2 aling="left" class="h2">
-      <br>Im brazillian! <img height="30cm" align="center" src="https://cdn.discordapp.com/emojis/639238452151582720.gif?size=64"</br>
-      <br>And start program this year.</br>
-      <br>Im starting web programming now,</br>
-      <br>but i want to learn game programming</br>
-      <br>with js and c#,</br>
-      </h2>
-      </div>
   </body>
 </html>
